@@ -1,0 +1,15 @@
+:root {
+  --bg-color: #faf3e8;
+  --text-color: #1f1a17;
+  --muted-color: #6d6158;
+  --nav-bg: rgba(250, 243, 232, 0.96);
+  --surface: #fffaf4;
+  --surface-2: #f3e5d2;
+  --gold: #dcb46c;
+  --gold-dark: #c59b4f;
+  --line: rgba(31, 26, 23, 0.12);
+  --hero-overlay: rgba(53, 34, 20, 0.34);
+  --shadow: 0 12px 35px rgba(66, 44, 25, 0.08);
+  --font-main: 'Inter', system-ui, -apple-system, sans-serif;
+  --font-titles: 'Cormorant Garamond', Georgia, serif;
+}
